@@ -4,6 +4,6 @@
 
 ![augustotognetti status](https://github-readme-stats.vercel.app/api?username=augustotognetti&show_icons=true)
 
-Algumas das linguagens com que já trabalhei:
+:keyboard: Algumas das linguagens com que já trabalhei:
 
 ![augustotognetti status](https://github-readme-stats.vercel.app/api?username=augustotognetti&show_icons=true)
