@@ -1,1 +1,3 @@
-### Hi there 👋
+### Olá 👋
+
+:books: Estou cursando desenvolvimento de sistemas
