@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá
 
 Cursando desenvolvimento de sistemas
 
