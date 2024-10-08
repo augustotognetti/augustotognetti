@@ -1,6 +1,6 @@
-### Olá
+### Olá,
 
-Cursando desenvolvimento de sistemas
+estou estudando programação
 
 ![augustotognetti status](https://github-readme-stats.vercel.app/api?username=augustotognetti&show_icons=true)
 
